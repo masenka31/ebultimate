@@ -102,17 +102,11 @@ Abychom ukázaly, že to myslíme vážně, spolupracujeme pro rok 2024 s profes
 
 {{< /timeline2 >}}
 
----
-
-{{< back-to-top-button >}}
-
----
-
 ## Historie
 
 {{< text-align "font-size: 1.15rem; text-align: justify;" >}}
 
-Východní blok začínal jako čistě halový tým -- nebylo nás dost na to, abychom mohly hrát venku na trávě. Po několika sezónách, kdy se Blok ukázal jako přátelský a spiritový tým, se podařilo nabral i několik nových mladých a šikovných hráček. V zimě rolu 2016 se události daly do pohybu, uspořádalo se první soustředění a holky z Bloku se poprvé postavily na hřiště venku na trávě na mistrovství ČR.
+Východní blok začínal jako čistě halový tým -- nebylo nás dost na to, abychom mohly hrát venku na trávě. Po několika sezónách, kdy se Blok ukázal jako přátelský a spiritový tým, se podařilo nabrat i několik nových mladých a šikovných hráček. V zimě rolu 2016 se události daly do pohybu, uspořádalo se první soustředění a holky z Bloku se poprvé postavily na hřiště venku na trávě na mistrovství ČR.
 
 ![](/images/history/vbw_prvni_outdoor.jpg)
 
@@ -120,25 +114,25 @@ O dva roky později přišly první medaile -- stříbro venku i v hale. Radost 
 
 ![](/images/history/mcr_indoor_2018_silver.jpeg)
 
-Rok 2018 se stal milníkem i díky tomu, že se Východní Blok poprvé ukázal na mezinárodní scéně, na turnaji Vienna Spring Break, odkud jsme si odvezly 5. místo.
+Rok 2018 se stal milníkem i díky tomu, že se Východní blok poprvé ukázal na mezinárodní scéně, na turnaji Vienna Spring Break, odkud jsme si odvezly 5. místo.
 
 ![](/images/history/spring_break_2018.jpg)
 
-V následujících letech jsme posbíraly pár dalších stříbrných medailí, ale i nižších umístění. Po covidové pandemii se k týmu přidaly holky ze žďárských Chupacabras. Vzniklo tak spojení, které momentálně funguje i na venkovní sezónu mixu. Roky 2020, 2021 a 2022 byly frustrující, Blok sbíral jen stříbrné medaile, pokaždé poraženi 3SB ve finálových zápasech.
+V následujících letech jsme posbíraly pár dalších stříbrných medailí, ale i nižších umístění. Po covidové pandemii se k týmu přidaly holky ze žďárských Chupacabras. Vzniklo tak spojení, které momentálně funguje i na venkovní sezónu mixu. Roky 2020, 2021 a 2022 byly frustrující, Blok sbíral jen stříbrné medaile, pokaždé poraženy ve finálových zápasech holkami z 3SB.
 
 I tak se ale děly nové věci! V roce 2022 East Block poprvé postavil tým na evropskou ligu. Ve spojení s hráčkami z FUJ jsme se dostaly na finálový turnaj v italském Caorle a zahrály těsné zápasy s nejlepšími týmy i budoucími vítězkami. Přestože jsme skončily na 13. místě (z 24 týmů), naše jméno se zapsalo do hledáčku všech.
 
 ![](/images/eucf2023.JPG)
 
-Nakonec přišel rok 2023. Blok dokázal urvat ne jednu, ne dvě, ale hned tři zlaté medaile: jednu na halovém MČR, jednu na venkovním MČR, kde jsme konečně zvládly porazit 3SB v napínavém finále, a nakonec i zlato na juniorském mistrovství, kde se ukázalo, že našich juniorek je třeba se bát. Za těch 10 let si Blok prošel horskou dráhou nahoru a dolů, plakalo se radostí i smutkem, turnaj za turnajem se bojovalo za sen stát mezi nejlepšími.
+Nakonec přišel rok 2023. Blok dokázal urvat ne jednu, ne dvě, ale hned tři zlaté medaile: jednu na halovém MČR, jednu na venkovním MČR, kde jsme konečně zvládly porazit 3SB v napínavém finále, a nakonec i zlato na juniorském mistrovství, kde se ukázalo, že našich juniorek je třeba se bát. Za těch 10 let si Blok prošel horskou dráhou nahoru a dolů, nechyběly slzy radosti i smutku, ale turnaj za turnajem jsme bojovaly o místo mezi těmi nejlepšími.
 
 ![](/images/nationals2023.JPG)
 
-Na evropské lize nás komentátoři predikovali na top 4 a tlak tak nebyl vůbec malý. Bohužel, po 2. místě na Spring Invite, vítězství na Vienna Spring break a 1. místě na regionální kvalifikaci se tlak ukázal býti příliš velký. Ve čtvrtfinále EUCF jsme podlehly Troubles v universe pointu a odvezly si krásné 6. místo.
+Na evropské lize nás komentátoři pro rok 2023 predikovali na top 4 a tlak tak nebyl vůbec malý. Bohužel, po 2. místě na Spring Invite, vítězství na Vienna Spring break a 1. místě na regionální kvalifikaci se tlak ukázal býti příliš velký. Ve čtvrtfinále EUCF jsme podlehly Troubles v universe pointu a odvezly si krásné 6. místo.
 
 ![](/images/history/eucf2023.png)
 
-Naše cesta tady nekončí, spíše začíná. Jak na národní tak i mezinárodní scéně nás čeká spousta práce i zábavy. Vy můžete být u toho a jak se Východní Blok dostává na vrchol.
+Naše cesta tady nekončí, spíše začíná. Jak na národní tak i mezinárodní scéně nás čeká spousta práce i zábavy. Vy můžete být u toho a jak se Východní blok dostává na vrchol.
 
 {{< /text-align >}}
 

@@ -5,7 +5,7 @@ other = "Více"
 other = "Všechny {{.Title }}"
 
 [recentTitle]
-other = "Nejnovější {{.Title }}"
+other = "Poslední {{.Title }}"
 
 [readMore]
 other = "čti dále"

@@ -30,7 +30,7 @@ featured_image = '/images/nationals2023.JPG'
 
 {{< /text-align >}}
 
-![](/images/hug.JPG)
+{{< figure src="/images/hug.JPG" >}}
 
 ## Chceš se k nám přidat?
 
@@ -44,11 +44,11 @@ Pokud se k nám chceš přidat na další sezónu, sleduj náš Instagram nebo n
 
 Chceš s námi trénovat? Můžeš se přidat buď ve Žďáře k tréninkům [Chupacabras](https://chupacabras.cz/treninky/) nebo do Slatiňan k [Chlupaté žábě](https://www.instagram.com/chlupatazaba.ultimate/). Jdi na jejich stránky a podívej se, jak momentálně probíhají tréninky, kdy a kde. Moc rádi tě na nich uvidíme!
 
-![](/images/celebration.JPG)
+{{< figure src="/images/celebration.JPG" >}}
 
-# Chceš se stát sponsorem?
+## Chceš se stát sponsorem?
 
-Jako hráčky ultimate frisbee si veškeré náklady musíme platit samy a celková částka může být poměrně vysoká. Vetšina hráček stále studuje, ať už na střední nebo vysoké škole, a je často závislá na pomoci rodičů. Budeme vděční za každou i jen maličký dar.
+Jako hráčky ultimate frisbee si veškeré náklady musíme platit samy a celková částka může být poměrně vysoká. Vetšina hráček stále studuje, ať už na střední nebo vysoké škole, a je často závislá na pomoci rodičů. Budeme vděčné za každý i jen maličký dar.
 
 Jestli se chceš pobavit přímo o sponzoringu, kontaktuj nás prosím na emailu: [eastblockultimate@gmail.com](mailto:eastblockultimate@gmail.com).
 
@@ -58,6 +58,10 @@ Jestli nám chceš přispět menší částkou, můžeš tak udělat přes QR k�
 
 {{< detail-tag "ukaž QR kód" >}}
 
-![](/images/qr/qr_czech.jpeg)
+Platební údaje
+- Číslo účtu: 2002285416 / 2010
+- Variabilní symbol: 0001
+
+{{% figure src="/images/qr/qr_czech.jpeg" %}}
 
 {{< /detail-tag >}}

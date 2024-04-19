@@ -49,4 +49,4 @@ This is it. Can we beat our previous high and become a TOP 5 European team?
 
 👀
 
-The finals roster is not yet known. If you want to be the first to know when the roster is announced, follow us on Instagram at [@eb_ultimate](https://www.instagram.com/eb_ultimate/).
+The final roster is not yet known. If you want to be the first to know when the roster is announced, follow us on Instagram at [@eb_ultimate](https://www.instagram.com/eb_ultimate/).

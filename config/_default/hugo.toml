@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://ebultimate.com/'
 languageCode = 'en-us'
 title = 'East Block Ultimate'
 theme = "ananke"
@@ -6,9 +6,9 @@ DefaultContentLanguage = "en"
 
 
 [params]
-  site_logo = "images/logo50px.png"
-  favicon = "images/favicon2.jpeg"
-  featured_image = "images/nationals2023.png"
+  site_logo = "images/logos/logo50px.png"
+  favicon = "images/logos/favicon.jpeg"
+  featured_image = "images/nationals2023.JPG"
   ananke_socials = [
     { name = "instagram", url = "https://www.instagram.com/eb_ultimate/", label = "East Block"},
   ]

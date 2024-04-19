@@ -31,7 +31,7 @@ V našem znaku najdeš rysa, na hřišti nás uslyšíš zpívat [We Are Number 
 {{< flex-columns >}}
 
 
-## Chceš nás vidět hrát?
+### Chceš nás vidět hrát?
 
 V loňském roce jsme se na streamu ulti.tv objevily hned několikrát. Můžeš mrknout třeba na finále Spring Invite proti BDF Shout, momentálními šampionkami na evropské scéně.
 
@@ -41,7 +41,7 @@ V loňském roce jsme se na streamu ulti.tv objevily hned několikrát. Můžeš
 
 {{< /flex-columns >}}
 
-##  Kam dál?
+###  Kam dál?
 
 {{< flex-columns >}}
 
@@ -57,8 +57,8 @@ Po stránkách můžeš volně brouzdat - dozvědět se víc o týmu jako takov�
 
 {{< button "" "Co je ultimate frisbee?" "https://www.caufrisbee.cz/frisbee-je-cool" >}}
 
-<!-- {{< button "" "Chci se stát sponzorem" "contact/#chceš-se-stát-sponzorem" >}} -->
+{{< button "" "Chci se stát sponzorem" "/contact/#chceš-se-stát-sponzorem" >}}
 
-<!-- {{< button "" "Chci se přidat k týmu" "contact/#chceš-se-k-nám-přidat" >}} -->
+{{< button "" "Chci se přidat k týmu" "/contact/#chceš-se-k-nám-přidat" >}}
 
 {{< /flex-columns >}}
