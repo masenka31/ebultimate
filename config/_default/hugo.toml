@@ -1,0 +1,53 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'East Block Ultimate'
+theme = "ananke"
+DefaultContentLanguage = "en"
+
+
+[params]
+  site_logo = "images/logo50px.png"
+  favicon = "images/favicon2.jpeg"
+  featured_image = "images/nationals2023.png"
+  ananke_socials = [
+    { name = "instagram", url = "https://www.instagram.com/eb_ultimate/", label = "East Block"},
+  ]
+  custom_css = ["custom.scss"]
+  background_color = "navy"
+
+[languages]
+  [languages.en]
+    title = "East Block"
+    weight = 1
+    contentDir = "content/en"
+    [languages.en.params]
+       read_more_copy = "read more"
+    # languageDirection = 'rtl' for Right-To-Left languages
+  [languages.cz]
+    title = "Východní Blok"
+    weight = 2
+    contentDir = "content/cz"
+    [languages.cz.params]
+       read_more_copy = "čti dál"
+
+
+# for brands
+[[params.plugins.css]]
+link = "plugins/font-awesome/v6/brands.css"
+# load all icons except brands
+[[params.plugins.css]]
+link = "plugins/font-awesome/v6/icons.css"
+# regular icons font family
+[[params.plugins.css]]
+link = "plugins/font-awesome/v6/regular.css"
+# solid icons font family
+[[params.plugins.css]]
+link = "plugins/font-awesome/v6/solid.css"
+
+[[imports]]
+path = "github.com/gethugothemes/hugo-modules/icons/font-awesome"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

@@ -1,0 +1,382 @@
+// Variables
+
+$bg-body: #f4f4f4;
+$bgColor: $bg-body;
+
+$red: #ee4d4d;
+$blue: #000A3C;
+$primary-color: $blue;
+$secondary-color: $blue;
+$base-font-color: #726f77;
+
+// Timeline
+$timeline-color: $primary-color;
+$timeline-color2: #17c728;
+
+
+// Mixins and Placeholders
+%clearfix {
+
+	&:after,
+	&:before {
+		content: '';
+		display: block;
+		width: 100%;
+		clear: both;
+	}
+}
+
+@mixin prefix($prop, $val) {
+	@each $prefix in '-webkit-', '-moz-', '-ms-', '' {
+		#{$prefix}#{$prop}: $val;
+	}
+}
+
+*,
+*:before,
+*:after {
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+}
+
+// Timeline
+
+#timeline {
+	width: 100%;
+	margin: 30px auto;
+	position: relative;
+	padding: 0 10px;
+	@include prefix(transition, all .4s ease);
+
+	&:before {
+		content: "";
+		width: 3px;
+		height: 100%;
+		background: $timeline-color;
+		left: 2%;
+		top: 0;
+		position: absolute;
+	}
+
+	&:after {
+		content: "";
+		clear: both;
+		display: table;
+		width: 100%;
+	}
+
+	.timeline-item {
+		margin-bottom: 50px;
+		position: relative;
+		@extend %clearfix;
+
+		.timeline-icon {
+			background: $timeline-color;
+			width: 50px;
+			height: 50px;
+			position: absolute;
+			top: 0;
+			left: 0%;
+			overflow: hidden;
+			margin-left: -23px;
+			@include prefix(border-radius, 50%);
+
+			svg {
+				position: relative;
+				top: 14px;
+				left: 14px;
+			}
+		}
+
+		.timeline-content {
+			width: 90%;
+			background: #fff;
+			padding: 20px;
+			@include prefix(box-shadow, 0 3px 0 rgba(0, 0, 0, 0.1));
+			@include prefix(border-radius, 5px);
+			@include prefix(transition, all .3s ease);
+
+			h3 {
+				padding: 8px;
+				background: $timeline-color;
+				color: #fff;
+				margin: -20px -20px 0 -20px;
+				font-weight: 300;
+				@include prefix(border-radius, 3px 3px 0 0);
+			}
+
+			&.right {
+				float: right;
+			}
+		}
+	}
+}
+
+// Buttons
+.btn {
+	padding: 5px 15px;
+	margin: 10px;
+	text-decoration: none;
+	background: transparent;
+	border: 2px solid lighten($primary-color, 10%);
+	color: lighten($primary-color, 10%);
+	display: inline-block;
+	position: relative;
+	text-transform: uppercase;
+	font-size: 12px;
+	@include prefix(border-radius, 5px);
+	@include prefix(transition, background .3s ease);
+	@include prefix(box-shadow, 2px 2px 0 lighten($primary-color, 10%));
+
+	&:hover {
+		box-shadow: none;
+		top: 2px;
+		left: 2px;
+		@include prefix(box-shadow, 2px 2px 0 transparent);
+	}
+}
+
+@media screen and (max-width: 768px) {
+	#timeline {
+		margin: 30px;
+		padding: 0px;
+		width: 90%;
+
+		&:before {
+			left: 0;
+		}
+
+		.timeline-item {
+			.timeline-content {
+				width: 90%;
+				float: right;
+
+				&:before,
+				&.right:before {
+					left: 10%;
+					margin-left: -6px;
+					border-left: 0;
+					border-right: 7px solid $timeline-color;
+				}
+			}
+
+			.timeline-icon {
+				left: 0;
+			}
+		}
+	}
+}
+
+// New timeline code
+
+#timeline2 {
+	border-left: 2px solid $primary-color;
+	padding: 0 20px;
+	margin-left: 150px;
+	margin-bottom: 4rem;
+
+	@media (max-width: 768px) {
+		margin-left: 0;
+		padding-right: 0;
+	}
+
+	.item {
+		position: relative;
+		margin-bottom: 20px;
+
+		// Insert your SVG as a background image for the .icon element
+		icon {
+			position: relative;
+			background-size: contain; // Ensures the SVG fits nicely within the div
+		}
+
+		&::before {
+			content: '';
+			position: absolute;
+			left: -30px; // Centers the icon on the vertical line
+			width: 20px; // Set the width of the icon
+			height: 20px; // Set the height of the icon
+			background: url('/icons/calendar.svg') no-repeat center center;
+			background-size: contain;
+			z-index: 2; // Make sure this layer is above the vertical line
+		}
+
+		&::after {
+			content: '';
+			position: absolute;
+			left: -30px; // Center horizontally with the border line
+			top: -5px; // Center horizontally with the border line
+			width: 30px; // Match the width of the border line
+			height: 30px; // Match the height of the icon
+			background: $bg-body; // Color of your background to cover the line
+			z-index: 1; // Layered below the icon, above the line
+		}
+	}
+
+	.tournament {
+		color: $primary-color;
+	}
+
+	.info {
+		position: absolute;
+		left: -130px;
+		top: 0;
+		font-size: 1rem;
+		color: $primary-color;
+		font-weight: 450;
+
+		.title {
+			color: $primary-color;
+		}
+
+		@media (max-width: 767px) {
+			position: static;
+			margin-bottom: 0.8rem;
+		}
+	}
+
+	// .description {
+	// 	font-size: 1rem;
+	// }
+
+	ul {
+		list-style-type: none;
+		text-align: left;
+	}
+}
+
+// Hyperlinks
+
+// Hyperlink styling excluding the header
+body:not(header) a {
+	color: $primary-color;
+	text-decoration: underline;
+
+	&:hover {
+		text-decoration-color: #00a9f1;
+	}
+}
+
+// Hamburger menu
+
+$mobileBreakpoint: 678px; // Mobile breakpoint
+$textColor: white;
+
+// Hamburger menu styles
+
+.menu-btn {
+	display: none;
+	color: white;
+	font-size: 2em;
+}
+
+.nav-links {
+	display: flex;
+	justify-content: space-between;
+	// margin-top: 1rem;
+	// vertical-align: middle;
+}
+
+@media (max-width: $mobileBreakpoint) {
+
+	.menu-btn {
+		display: block;
+		color: $bgColor;
+		font-size: 3em;
+		cursor: pointer;
+		position: absolute;
+		right: 1rem; // Adjust for right spacing
+		top: 1rem; // Adjust for top spacing
+		z-index: 1000; // Ensure it's above other elements
+	}
+
+	.nav-links {
+		position: fixed;
+		top: 0;
+		right: 0;
+		bottom: 0;
+		// width: 170px; // Increased width for longer names
+		width: 100%;
+		// background-color: rgba($primary-color, 0.95); // Semi-transparent background
+		background-color: $primary-color; // Semi-transparent background
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+		transform: translateX(100%); // Start off the screen to the right
+		transition: transform 0.3s ease-out;
+		padding: 1rem; // Padding inside the menu
+		box-sizing: border-box; // Ensure padding is included in width
+		display: flex; // Make sure this is not "none"
+		z-index: 100; // Ensure it's above other elements
+	}
+
+	.nav-links a {
+		color: $textColor; // Choose a contrasting text color
+		font-size: 1.5rem;
+		padding: 1rem; // Padding for menu items
+		text-decoration: none; // Remove underline from links
+		display: block; // Make the link fill the width for a better touch target
+	}
+
+	// Show the nav-links when menu-btn is clicked
+	.menu-active {
+		transform: translateX(0);
+	}
+
+}
+
+.ananke-socials {
+	display: flex;
+	align-items: center;
+  }
+
+.ananke-socials a {
+	color: #BABABA;
+	fill: currentColor;
+}
+
+.ananke-socials a .icon svg {
+	width: 2.5rem;
+	height: auto;
+}
+
+.ananke-socials a:hover {
+	color: rgb(107, 114, 128);
+}
+
+.link-transition:hover .new-window {
+	opacity: 1;
+}
+
+/* BACK TO TOP */
+
+html {
+	scroll-behavior: smooth;
+}
+
+.back-to-top {
+	position: right;
+	background-color: $blue;
+	border-radius: 0.75rem;
+	padding: 0.5rem;
+	transition: 0.2s ease-out;
+	// align-items: right;
+	// justify-content: right;
+	display: inline-flex;
+	text-decoration: none;
+	color: $bgColor;
+}
+
+.back-to-top span {
+	color: $bgColor;
+	font-size: 1rem;
+	transition: 0.2s ease-out;
+}
+
+.back-to-top:hover {
+	background-color: $blue;
+}
+.back-to-top:hover span {
+	transform: translateY(-4px);
+}
