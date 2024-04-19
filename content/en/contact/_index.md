@@ -31,7 +31,7 @@ featured_image = '/images/nationals2023.JPG'
 
 {{< /text-align >}}
 
-![](/images/hug.JPG)
+{{< figure src="/images/hug.JPG">}}
 
 ## Wanna join the team?
 
@@ -45,7 +45,7 @@ Want to play with us next season? Follow us on Instagram, or get in touch privat
 
 If you want to train with us, you can do so either in Žďár nad Sázavou with [Chupacabras](https://chupacabras.cz/treninky/) or in Slatiňany with [Chlupatá žába](https://www.instagram.com/chlupatazaba.ultimate/). Go to their respective pages to learn more about the teams and when and where they are currently training. We will be glad to have you!
 
-![](/images/celebration.JPG)
+{{< figure src="/images/celebration.JPG">}}
 
 ## Wanna become a sponsor?
 
@@ -63,6 +63,6 @@ Payment details:
 - IBAN: CZ1220100000002002285416
 - variable symbol: 0001
 
-![](/images/qr/qr_english.jpeg)
+{{% figure src="/images/qr/qr_english.jpeg" %}}
 
 {{< /detail-tag >}}

@@ -19,7 +19,7 @@ We are **East Block** -- a Czech women's ultimate frisbee team, national champio
 
 {{< flex-columns >}}
 
-{{< figure src="/images/logo_blue_wo_bg_horizontal.png" class="pb3 w-70 center">}}
+{{< figure src="/images/logos/logo_blue_wo_bg_horizontal.png" class="pb3 w-70 center">}}
 
 <--->
 

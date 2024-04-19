@@ -19,7 +19,7 @@ Jsme **East Block** -- český ženský ultimate frisbee tým, mistryně České
 
 {{< flex-columns >}}
 
-{{< figure src="/images/logo_blue_wo_bg_horizontal.png" class="pb3 w-70 center">}}
+{{< figure src="/images/logos/logo_blue_wo_bg_horizontal.png" class="pb3 w-70 center">}}
 
 <--->
 
