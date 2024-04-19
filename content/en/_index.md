@@ -5,7 +5,7 @@ draft = false
 menu = "Home"
 +++
 
-# Hello and welcome!
+## Hello and welcome!
 
 {{< flex-columns >}}
 
