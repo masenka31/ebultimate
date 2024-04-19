@@ -7,7 +7,7 @@ DefaultContentLanguage = "en"
 
 [params]
   site_logo = "images/logo50px.png"
-  favicon = "images/favicon2.jpeg"
+  favicon = "images/logos/favicon.jpeg"
   featured_image = "images/nationals2023.png"
   ananke_socials = [
     { name = "instagram", url = "https://www.instagram.com/eb_ultimate/", label = "East Block"},

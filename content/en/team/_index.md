@@ -7,12 +7,12 @@ featured_image = '/images/nationals2023.JPG'
 
 {{< text-justify >}}
 
-TODO: one column for european team, maybe with picture and flex columns
-TODO: another column / section for the czech team
+The team has grown and we've got a big pool of players of all levels and ages. There are two versions of the team
 
-The 2024 team has some new additions! The full practice roster includes ~30 players from the core East Block team - as playing on the national level - joined with amazing talent from other Czech teams.
+- the **czech team**, composed of core East Block players and playing at the national level
+- the **european team**, including additional drafted players from all corners of the Czech Republic
 
-Kristýna Tlustá (Kikča) continues as a fierce captain, joined by Michaela Mašková (Máša) as a co-captain and Spirit captain. For the 2024 EUCF season, we have joined forces with none other that the amazing professional coach Valerio Iani. Last but not least, Lukáš Barborik became the assistant coach.
+Kristýna Tlustá continues as a fierce captain, joined by Michaela Mašková as a co-captain and Spirit captain. For the 2024 EUCF season, we have joined forces with none other that the amazing professional coach Valerio Iani. Last but not least, Lukáš Barborik became the assistant coach.
 
 {{< /text-justify >}}
 

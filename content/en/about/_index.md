@@ -8,7 +8,9 @@ featured_image = '/images/nationals2023.JPG'
 
 # Who are we?
 
-East Block is a Czech Women's Ultimate Frisbee Team. The players come mostly from the east bohemia region of Czech Republic: Hradec Králové, Slatiňany and Žďár nad Sázavou. We are Czech national champions of 2023, both indoors and outdoors (and at juniors as well). Since 2022, we are also competing at the [EUCS (European Ultimate Club Season)](https://eucs.ultimatefederation.eu/), fighting for top spots after finishing 6th last year.
+**East Block is a Czech Women's Ultimate Frisbee Team.**
+
+The players come mostly from the east bohemia region of Czech Republic: Hradec Králové, Slatiňany and Žďár nad Sázavou. We are Czech national champions of 2023, both indoors and outdoors (and at juniors as well). Since 2022, we are also competing at the [EUCS](https://eucs.ultimatefederation.eu/) (European Ultimate Club Season), fighting for top spots after finishing 6th last year.
 
 {{< button "#goals" "Goals" >}}
 
@@ -20,11 +22,11 @@ East Block is a Czech Women's Ultimate Frisbee Team. The players come mostly fro
 
 {{< text-align "font-size: 1.15rem; text-align: justify;" >}}
 
-When East Block started, we had no idea how far we can go. Now we know that only sky is the limit. Our first goal has already been achieved: we have become the Czech national champions. So, what next?
+When East Block started, we had no idea how far we can go. Now we know that only sky is the limit. We've already achieved our first goal: we have become the Czech national champions. So, what next?
 
 **We are on a journey to establish East Block as a TOP European team.**
 
-To show our commitment, we have hired a professional coach for the 2024 European season, Valerio Iani. But, the european team is not everything. We are working hard to improve as individual players and as a team. Most of our players are part of the Czech national team, both senior and junior. We are also super excited to develop young players and continue to win Czech junior championships in the coming years.
+To show our commitment, we have hired a professional coach for the 2024 European season, Valerio Iani. But, the european team is not everything. We are working hard to improve as individual players and as a team. Most of our players are part of the Czech national teams, both senior and junior. We are also super excited to develop young players and continue to win Czech junior championships in the coming years.
 
 {{< /text-align >}}
 
@@ -105,7 +107,7 @@ To show our commitment, we have hired a professional coach for the 2024 European
 
 {{< text-align "font-size: 1.15rem; text-align: justify;" >}}
 
-East Block women's team started its career as a strictly indoor team -- there were not enough of us to build a team to go play out on the grass. We waited a few seasons, establishing East Block as a easy-going, spirited and friendly team, getting some young faces to play with us in our characteristic blue jerseys with a white stripe. In winter 2016, things got moving, and in the spring of 2016, East Block held its first training camp and attended the Czech Nationals for the very first time.
+East Block women's team started its career as a strictly indoor team -- there were not enough of us to build a team to go play out on the grass. We waited a few seasons, establishing East Block as an easy-going, spirited and friendly team, getting some young faces to play with us in our characteristic blue jerseys with a white stripe. In winter 2016, things got moving, and in the spring East Block held its first training camp and attended the Czech Nationals for the very first time.
 
 ![](/images/history/vbw_prvni_outdoor.jpg)
 
@@ -123,7 +125,7 @@ But! In 2022, we finally decided to push ourselves to dream big and started play
 
 ![](/images/eucf2023.JPG)
 
-Then, 2023 came. Finally, East Block managed to get not one, not two, but three gold medals: one at the indoor nationals, one at the outdoor nationals against the rivals from 3SB and last but not least, one at the junior nationals, proving to everyone that our young talent is to watch out for. Over 10 years of ups and downs, happy and sad tears, tournament after tournament, we slowly made it happend and the journey has been worth all the sweat and pain. We are even moving forward, chasing bigger highs, while carrying amazing memories with us at all times.
+Then, 2023 came. Finally, East Block managed to get not one, not two, but three gold medals: one at the indoor nationals, one at the outdoor nationals against the rivals from 3SB and last but not least, one at the junior nationals, proving to everyone that our young talent is to watch out for. Over 10 years of ups and downs, happy and sad tears, tournament after tournament, we slowly made it happen and the journey has been worth all the sweat and pain. We are ever moving forward, chasing bigger highs, while carrying amazing memories with us at all times.
 
 ![](/images/nationals2023.JPG)
 

@@ -29,9 +29,9 @@ Our spirit animal is the lynx, our anthem Lazy Town's [We Are Number One](https:
 
 {{< flex-columns >}}
 
-## Wanna see us play?
+### Wanna see us play?
 
-We've been lucky to get a lot of attention on stream from ulti.tv in 2023. You can start with the Spring Invite final against BDF Shout, the reigning EUCF champions.
+We've been lucky to get a lot of attention on stream from [ulti.tv](https://ulti.tv/) in 2023. You can start with the Spring Invite final against BDF Shout, the reigning EUCF champions.
 
 <--->
     
@@ -39,7 +39,7 @@ We've been lucky to get a lot of attention on stream from ulti.tv in 2023. You c
 
 {{< /flex-columns >}}
 
-## Where to now?
+### Where to now?
 
 {{< flex-columns >}}
 
