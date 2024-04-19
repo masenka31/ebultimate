@@ -2,7 +2,6 @@
 title = 'East Block'
 date = 2024-03-20T17:52:38+01:00
 draft = false
-featured_image = '/images/nationals2023.JPG'
 menu = "Home"
 +++
 
