@@ -31,7 +31,7 @@ featured_image = '/images/nationals2023.JPG'
 
 {{< /text-align >}}
 
-{{< figure src="/images/hug.JPG">}}
+{{< figure src="/images/hug.jpg">}}
 
 ## Wanna join the team?
 
