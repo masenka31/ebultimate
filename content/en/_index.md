@@ -9,7 +9,7 @@ menu = "Home"
 
 {{< flex-columns >}}
 
-We are **East Block** -- a Czech women's ultimate frisbee team, national champions and contenders for top stop at the highest level of European ultimate at EUCF.
+We are **East Block** -- a Czech women's ultimate frisbee team, national champions and contenders for top spot at the highest level of European ultimate at EUCF.
 
 <--->
 
