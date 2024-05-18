@@ -24,6 +24,8 @@ Do Vídně posíláme tým, který kombinuje zkušené hráčky, ale i mladší 
 
 První Elite Invite - turnaj pro top 8 týmů z loňské sezóny Evropské ligy. Připravte se na nabitý roster složený z nejlepších hráček, které v Bloku máme.
 
+[Přečti si o turnaji]({{< ref "/news/elite_invite_2024.md" >}} "Elite Invite")
+
 {{< /timeline-entry2 >}}
 
 {{< timeline-entry2 title="Windmill" date="14. 6. 2024">}}
