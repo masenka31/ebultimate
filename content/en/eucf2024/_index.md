@@ -23,6 +23,8 @@ We are sending a combination of experienced and young players, who can experienc
 
 Our first Elite Invite. Get ready for a hyped team featuring the best players East Block can offer.
 
+[Read the recap]({{< ref "/news/elite_invite_2024.md" >}} "Elite Invite Recap")
+
 {{< /timeline-entry2 >}}
 
 {{< timeline-entry2 title="Windmill" date="14. 6. 2024">}}
