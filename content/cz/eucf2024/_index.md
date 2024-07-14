@@ -32,6 +32,8 @@ První Elite Invite - turnaj pro top 8 týmů z loňské sezóny Evropské ligy.
 
 Blok se poprvé vydá do Amsterdamu na legendární Windmill. Jsme ready na mezinárodní konkurenci nejen z Evropy, a samozřejmě si jedeme užít spoustu zábavy.
 
+[Přečti si o turnaji]({{< ref "/news/windmill2024.md" >}} "Elite Invite")
+
 {{< /timeline-entry2 >}}
 
 {{< timeline-entry2 title="Summer Invite Trnava" date="17. 8. 2024" >}}

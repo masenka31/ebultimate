@@ -31,6 +31,8 @@ Our first Elite Invite. Get ready for a hyped team featuring the best players Ea
 
 First ever Windmill for East Block. Ready to go fully international and have loads of fun!
 
+[Read the recap]({{< ref "/news/windmill2024.md" >}} "Windmill Recap")
+
 {{< /timeline-entry2 >}}
 
 {{< timeline-entry2 title="Summer Invite Trnava" date="17. 8. 2024" >}}
