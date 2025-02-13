@@ -15,18 +15,9 @@ featured_image = '/images/nationals2023.JPG'
 - Instagram: [@eb_ultimate](https://www.instagram.com/eb_ultimate)
 - email: eastblockultimate@gmail.com
 
-**Kristýna Tlustá (kapitánka)**
-- Instagram: [@kristyna_tlusta](https://www.instagram.com/kristyna_tlusta)
-
-**Michaela Mašková (kapitánka)**
+**Michaela Mašková (spirit kapitánka a manažer)**
 - Instagram: [@masenka31](https://www.instagram.com/masenka31)
 - email: masenka.maskova@gmail.com
-
-**Valerio Iani**
-- Instagram: [@valerioiani](https://www.instagram.com/valerioiani)
-
-**Lukáš Barborik**
-- Instagram: [@lukasbarborik](https://www.instagram.com/lukasbarborik)
 
 {{< /text-align >}}
 
@@ -36,9 +27,7 @@ featured_image = '/images/nationals2023.JPG'
 
 **Evropský tým**
 
-Evropský tým už má pro letošek dveře zavřené, máme za sebou první tryouty se všemi hráčkami i novými trenéry.
-
-Pokud se k nám chceš přidat na další sezónu, sleduj náš Instagram nebo napiš kapitánkám. Na podzim vydáme dotazník, kde se můžeš přihlásit do týmu na další sezónu :)
+Evropský tým už skládáme. Pokud se k nám chceš přidat na další sezónu, sleduj náš Instagram nebo napiš kapitánkám. Na podzim vydáme dotazník, kde se můžeš přihlásit do týmu na další sezónu :)
 
 **Český tým**
 

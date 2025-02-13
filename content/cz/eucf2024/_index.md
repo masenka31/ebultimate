@@ -1,16 +1,45 @@
 +++
-title = 'Cesta na EUCF 2024'
+title = 'Cesta na EUCF 2025'
 menu = 'EUCF 2024'
 date = 2024-03-21T23:11:08+01:00
 draft = false
 featured_image = '/images/nationals2023.JPG'
 +++
 
-Loni jsme skončily na 6. místě. Teď jsme zpátky, s novým koučem i novými tvářemi v sestavě, a míříme jen výš a výš.
+Loni jsme skončily na 5. místě. Změn je hodně, ale nezpomalujeme, jedeme dál, nabíráme rychlost, nabíráme zkušenosti a není dobrý nápad nás podceňovat...
 
-## Turnaje
+## 2025
 
-Letos nás můžeš vidět na následujících turnajích:
+Tenhle rok je naše cesta na EUCF trochu jinačí než loni. Z personálních, finančních i časových důvodů vynecháváme letošní Elite Invite, ale jinak nás můžeš sledovat na spoustě jiných turnajů.
+
+
+{{< timeline2 >}}
+
+{{< timeline-entry2 title="Vienna Spring Break" date="3. 5. 2025" >}}
+
+{{< /timeline-entry2 >}}
+
+{{< timeline-entry2 title="Windmill" date="25. 7. 2025" >}}
+
+{{< /timeline-entry2 >}}
+
+{{< timeline-entry2 title="Summer Tour Wroclaw" date="16. 8. 2025" >}}
+
+{{< /timeline-entry2 >}}
+
+{{< timeline-entry2 title="EUCF" date="26. 9. 2025" >}}
+
+{{< /timeline-entry2 >}}
+
+{{< /timeline2 >}}
+
+# Archiv
+
+## 2024
+
+### Turnaje
+
+Naše cesta za 5. místem na EUCF 2024 vypadala následovně...
 
 {{< timeline2 >}}
 
@@ -49,9 +78,3 @@ Tohle je turnaj, pro který jsme dřely celou sezónu. Dokážeme překonat loň
 {{< /timeline-entry2 >}}
 
 {{< /timeline2 >}}
-
-## Roster
-
-👀
-
-Finální roster ještě nemáme. Chceš jako první vědět, kdo bude v sestavě? Sleduj nás na Instagramu [@eb_ultimate](https://www.instagram.com/eb_ultimate/).
