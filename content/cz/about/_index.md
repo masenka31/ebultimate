@@ -28,7 +28,7 @@ Poslední dva roky se stabilně držíme mezi top týmy v Evropě (5. místo v r
 
 Ale evropský tým samozřejmě není všechno. Děláme vše proto, abychom se rozvíjely individuálně, i jako tým. Většina hráček je součástí národních reprezentací -- seniorské i juniorské. Spoustu úsilí věnujeme i rozvoji mladých holek, chceme dál pokračovat ve šňůře vítězství juniorského mistrovství ČR i v dalších letech.
 
-{{< /text-align >}}
+{{< /text-align >}} 
 
 ## Úspěchy
 
