@@ -9,7 +9,7 @@
             }}
         </a>
         {{ partial "cau-frisbee.html" . }}
-        {{ partial "social-follow.html" . }}
+        {{ partialCached "social/follow.html" . }}
     </div>
 
     {{ if eq $language "cz"}}

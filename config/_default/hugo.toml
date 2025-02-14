@@ -9,11 +9,12 @@ DefaultContentLanguage = "en"
   site_logo = "images/logos/logo50px.png"
   favicon = "images/logos/favicon.jpeg"
   featured_image = "images/nationals2023.JPG"
-  ananke_socials = [
-    { name = "instagram", url = "https://www.instagram.com/eb_ultimate/", label = "East Block"},
-  ]
   custom_css = ["custom.scss"]
   background_color = "navy"
+
+[params.ananke.social.instagram]
+  username = "East Block"
+  profilelink = "https://www.instagram.com/eb_ultimate/"
 
 [languages]
   [languages.en]
