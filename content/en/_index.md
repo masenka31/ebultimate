@@ -35,7 +35,7 @@ We've been lucky to get a lot of attention on stream from [ulti.tv](https://ulti
 
 <--->
     
-{{% youtube id="sr6nbCnoBSs" %}}
+{{< youtube sr6nbCnoBSs >}}
 
 {{< /flex-columns >}}
 
@@ -53,7 +53,7 @@ Feel free to roam around, learn more about the team, the goals and achievements 
 
 {{< button "" "Goals & achievements" "about/#goals">}}
 
-{{< button "" "Road to EUCF 2024" "eucf2024">}}
+{{< button "" "Road to EUCF 2025" "eucf">}}
 
 {{< button "" "Become a sponsor" "contact/#wanna-become-a-sponsor">}}
 

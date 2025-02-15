@@ -1,7 +1,7 @@
 [[main]]
-  identifier = "eucf2024/_index"
+  identifier = "eucf/_index"
   name = "EUCF"
-  pageRef = "/eucf2024/"
+  pageRef = "/eucf/"
   weight = 2
 
 [[main]]

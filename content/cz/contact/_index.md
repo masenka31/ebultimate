@@ -15,6 +15,12 @@ featured_image = '/images/nationals2023.JPG'
 - Instagram: [@eb_ultimate](https://www.instagram.com/eb_ultimate)
 - email: eastblockultimate@gmail.com
 
+**Klára Švecová (kapitánka)**
+- email: svecova.klaraa@gmail.com
+
+**Dominika Hadová (kapitánka)**
+- email: domka.hadova@seznam.cz
+
 **Michaela Mašková (spirit kapitánka a manažer)**
 - Instagram: [@masenka31](https://www.instagram.com/masenka31)
 - email: masenka.maskova@gmail.com
