@@ -2,16 +2,16 @@
 
 <footer class="bg-black w-100 pa3" role="contentinfo">
     <div class="flex-l justify-between-l items-center-l w-100">
-        <div class="w-third-l w-100 pa1 tl flex items-center">
-            <a class="f4 fw4 hover-white no-underline white-70 mr2" href="{{ .Site.Home.Permalink }}">
+        <div class="w-100 w-third-l tl-l tc flex-l items-center-l pa0-l pa1">
+            <a class="f5 fw4 hover-white no-underline white-70 mr2" href="{{ .Site.Home.Permalink }}">
                 &copy; {{ with .Site.Copyright | default "East Block" }} {{ . | safeHTML }} {{ now.Format "2006"}} {{
                 end }}
             </a>
         </div>
-        <div class="w-third-l w-100 pa1 tc flex items-center justify-center">
+        <div class="w-100 w-third-l tc-l tc flex-l items-center-l justify-center-l  pa0-l pa1">
             {{ partial "cau-frisbee.html" . }}
         </div>
-        <div class="w-third-l w-100 pa1 tr flex items-center justify-end">
+        <div class="w-100 w-third-l tr-l tc flex-l items-center-l justify-end-l  pa0-l pa1">
             <a href="https://www.instagram.com/eb_ultimate/" target="_blank" class="dib v-mid">
                 <img src="/fontawesome/instagram_white.svg" class="h2 v-mid" alt="Instagram">
             </a>
@@ -19,19 +19,19 @@
     </div>
 
     <div class="flex-l justify-between-l items-center-l w-100">
-        <div class="w-third-l w-100 pa1 tl flex items-center">
+        <div class="w-100 w-third-l tl-l tc flex-l items-center-l  pa0-l pa1">
             <a class="f5-l f6 fw4 hover-white no-underline white-70" href="mailto:eastblockultimate@gmail.com">
                 eastblockultimate@gmail.com
             </a>
         </div>
-        <div class="w-third-l w-100 pa1 tc flex items-center justify-center">
+        <div class="w-100 w-third-l tc-l tc flex-l items-center-l justify-center-l  pa0-l pa1">
             {{ $url := "contact/" }}
             <a class="f5-l f6 fw4 hover-white no-underline white-70"
                 href="{{ urls.AbsLangURL $url }}#wanna-become-a-sponsor">
                 {{ if eq $language "cz"}} Staň se sponsorem {{ else }} Become sponsor {{ end }}
             </a>
         </div>
-        <div class="w-third-l w-100 pa1 tr flex items-center justify-end">
+        <div class="w-100 w-third-l tr-l tc flex-l items-center-l justify-end-l  pa0-l pa1">
             {{ $url := "contact/" }}
             <a class="f5-l f6 fw4 hover-white no-underline white-70"
                 href="{{ urls.AbsLangURL $url }}#wanna-join-the-team">
