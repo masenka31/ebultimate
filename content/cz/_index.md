@@ -37,7 +37,7 @@ V loňském roce jsme se na streamu ulti.tv objevily hned několikrát. Můžeš
 
 <--->
     
-{{% youtube id="sr6nbCnoBSs" %}}
+{{< youtube sr6nbCnoBSs >}}
 
 {{< /flex-columns >}}
 
@@ -53,7 +53,7 @@ Po stránkách můžeš volně brouzdat - dozvědět se víc o týmu jako takov�
 
 {{< button "" "Cíle a úspěchy" "about/cile" >}}
 
-{{< button "" "Cesta na EUCF 2024" "eucf2024" >}}
+{{< button "" "Cesta na EUCF 2025" "eucf" >}}
 
 {{< button "" "Co je ultimate frisbee?" "https://www.caufrisbee.cz/frisbee-je-cool" >}}
 

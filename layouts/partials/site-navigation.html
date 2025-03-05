@@ -1,5 +1,3 @@
-{{ $socials := where (partialCached "func/socials/Get" "socials/Get") "follow" "!=" false }}
-
 <nav class="pv3 ph3 ph4-ns" role="navigation">
   <div class="flex justify-between items-center center">
     <a href="{{ .Site.Home.RelPermalink }}" class="f3 fw2 hover-white no-underline white-90 dib">
@@ -18,7 +16,8 @@
       <div class="nav-links">
         {{ if .IsTranslated }}
         {{ range .Translations }}
-        <a class="link hover-white white-90 no-underline f5 f4-ns pr4 pr3-m pt1" href="{{ .RelPermalink }}">{{ .Lang }}</a>
+        <a class="link hover-white white-90 no-underline f5 f4-ns pr4 pr3-m pt1" href="{{ .RelPermalink }}">{{ .Lang
+          }}</a>
         {{ end}}
         {{ end }}
 
@@ -52,20 +51,8 @@
         </script>
 
         {{ end }}
-        <div class="ananke-socials">
-          {{ range $socials }}
-          {{ $rel := .rel | default "noopener" }}
-          <a href="{{ .url }}" target="_blank" rel="{{ $rel }}"
-            class="{{ .name }} ananke-social-link link-transition stackoverflow link dib z-999 pr1"
-            title="{{ .label }} {{ .name }}" aria-label="follow on {{ .label }}——Opens in a new window">
-            {{ with .icon }}
-            <span class="icon">{{ . }}</span>
-            {{ else }}
-            {{ .label }}
-            {{ end }}
-          </a>
-          {{ end }}
-        </div>
+        {{/*  {{ partialCached "social/follow.html" . }}  */}}
+        {{ partialCached "instagram-link.html" . }}
       </div>
     </nav>
   </div>

@@ -5,21 +5,33 @@ draft = false
 featured_image = '/images/nationals2023.JPG'
 +++
 
+## Team
+
 {{< text-justify >}}
 
-The team has grown and we've got a big pool of players of all levels and ages. There are two versions of the team
+East Block functions as two versions of one team
 
-- the **czech team**, composed of core East Block players and playing at the national level
-- the **european team**, including additional drafted players from all corners of the Czech Republic
-
-Kristýna Tlustá continues as a fierce captain, joined by Michaela Mašková as a co-captain and Spirit captain. For the 2024 EUCF season, we have joined forces with none other that the amazing professional coach Valerio Iani. Last but not least, Lukáš Barborik became the assistant coach.
+- the **Czech team**, composed of core East Block players and playing at the national level
+- the **European team**, including additional drafted players from all corners of the Czech Republic, some of them play with us from the very beginning, some can join as new players every year.
 
 {{< /text-justify >}}
 
-### Val
+## Captains
 
-{{< instagram C1l6Sv7IKhS>}}
+{{< text-justify >}}
 
-### Piri
+The captains for Czech team are Klára Švecová and Dominika Hadová. The European team... well, you have to wait for the announcement of the leadership. Stay tuned 👀
 
-{{< instagram C27HDJWo_xe>}}
+{{< /text-justify >}}
+
+{{< figure src="/images/letsgo2024.jpg">}}
+
+## Coach
+
+{{< text-justify >}}
+
+Our coach for the 2025 European club season is **Lu Burgess**. Lu is an ultimate player and coach, as well as an analyst and commentator for [ulti.tv](https://ulti.tv/). They are part of [Hive Ultimate](https://hiveultimate.com/), focusing on hex (flow) offence and flex defence. You can follow Lu at [@lu.burgess.ultimate](https://www.instagram.com/lu.burgess.ultimate/).
+
+{{< figure src="/images/lu_burgess.JPG">}}
+
+{{< /text-justify >}}

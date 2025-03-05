@@ -10,7 +10,7 @@ featured_image = '/images/nationals2023.JPG'
 
 **East Block is a Czech Women's Ultimate Frisbee Team.**
 
-The players come mostly from the east bohemia region of Czech Republic: Hradec Králové, Slatiňany and Žďár nad Sázavou. We are Czech national champions of 2023, both indoors and outdoors (and at juniors as well). Since 2022, we are also competing at the [EUCS](https://eucs.ultimatefederation.eu/) (European Ultimate Club Season), fighting for top spots after finishing 6th last year.
+The players come mostly from the East Bohemia region of Czech Republic: Hradec Králové, Slatiňany and Žďár nad Sázavou. We are Czech national champions of 2023 and 2024, winning medals both indoors and outdoors (and at juniors as well). Since 2022, we are also competing at the [EUCS](https://eucs.ultimatefederation.eu/) (European Ultimate Club Season), fighting for top spots after finishing 5th last year.
 
 {{< button "#goals" "Goals" >}}
 
@@ -22,11 +22,13 @@ The players come mostly from the east bohemia region of Czech Republic: Hradec K
 
 {{< text-align "font-size: 1.15rem; text-align: justify;" >}}
 
-When East Block started, we had no idea how far we can go. Now we know that only sky is the limit. We've already achieved our first goal: we have become the Czech national champions. So, what next?
+When East Block started, we had no idea how far we can go. Now we know that only sky is the limit. We've already achieved our first goal: we are Czech national champions. What next?
 
 **We are on a journey to establish East Block as a TOP European team.**
 
-To show our commitment, we have hired a professional coach for the 2024 European season, Valerio Iani. But, the european team is not everything. We are working hard to improve as individual players and as a team. Most of our players are part of the Czech national teams, both senior and junior. We are also super excited to develop young players and continue to win Czech junior championships in the coming years.
+In the last two years, we have proven our qualities (finishing 5th last year and 6th in 2023). Our goal is bold and ambitious: we want that medal one day!
+
+Still, the European team is not everything. We are working hard to improve as individual players and as a team. Most of our players are part of the Czech national teams, both senior and junior. We are also super excited to develop young players and continue to win Czech junior championships in the coming years.
 
 {{< /text-align >}}
 
@@ -36,8 +38,10 @@ To show our commitment, we have hired a professional coach for the 2024 European
 
 {{< timeline-entry2 date="2024">}}
 
+- 🥇 **Czech national championship (outdoor)**
 - 🥇 Czech junior championship
 - 🥉 Czech national championship (beach 🏖️)
+- 💙 **5th place EUCF**
 
 {{< /timeline-entry2>}}
 
@@ -57,7 +61,7 @@ To show our commitment, we have hired a professional coach for the 2024 European
 
 - 🥈 Czech national championship (outdoor)
 - 🥇 Czech junior championship
-- 💙 **first appearance at european league: 13th place EUCF**
+- 💙 **first appearance at European league: 13th place EUCF**
 
 {{< /timeline-entry2 >}}
 
@@ -111,7 +115,7 @@ East Block women's team started its career as a strictly indoor team -- there we
 
 ![](/images/history/vbw_prvni_outdoor.jpg)
 
-Two years later, the first medals came -- two silvers from both indoor and outdoor championships. The ecstacy was real. We did it!
+Two years later, the first medals came -- two silvers from both indoor and outdoor championships. The ecstasy was real. We did it!
 
 ![](/images/history/mcr_indoor_2018_silver.jpeg)
 
@@ -129,11 +133,11 @@ Then, 2023 came. Finally, East Block managed to get not one, not two, but three 
 
 ![](/images/nationals2023.JPG)
 
-Predicted to become TOP 4 at EUCF, the pressure was building. Unfortunately, even after coming 2nd at Spring Invite, 1st at Vienna Spring Break and 1st at the regional qualitifaction, the pressure was too much and at the EUCF, we lost to Troubles in the quarterfinals. In the end, we secured an amazing 6th place.
+Predicted to become TOP 4 at EUCF, the pressure was building. Unfortunately, even after coming 2nd at Spring Invite, 1st at Vienna Spring Break and 1st at the regional qualification, the pressure was too much and at the EUCF, we lost to Troubles in the quarterfinals. In the end, we secured an amazing 6th place.
 
 ![](/images/history/eucf2023.png)
 
-Our journey does not end here. Both the national and european versions of the team are working hard to keep up with the best and fight for our spot at the top.
+Our journey does not end here. Both the national and European versions of the team are working hard to keep up with the best and fight for our spot at the top.
 
 {{< /text-align >}}
 

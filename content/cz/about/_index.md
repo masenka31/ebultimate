@@ -8,7 +8,9 @@ featured_image = '/images/nationals2023.JPG'
 
 # Kdo jsme?
 
-Východní Blok (East Block) je český ženský ultimate frisbee tým. Hráčky pochází hlavně z oblasti východních Čech: Hradce Králové, Slatiňan a Žďáru na Sázavou. Jsme mistryně České republiky roku 2023, v hale, venku i v juniorské kategorii! Od roku 2022 také soutěžíme v Evropské lize o nejlepší umístění, abychom překonaly loňské umístění na 6. místě.
+**Východní Blok (East Block) je český ženský ultimate frisbee tým.**
+
+Hráčky pochází hlavně z oblasti východních Čech: Hradce Králové, Slatiňan a Žďáru na Sázavou. Jsme mistryně České republiky roku 2023 a 2024, medaile sbíráme v hale, venku i na juniorských soutěžích. Od roku 2022 se účastníme Evropské ligy, kde jsme se v posledním roce umístily mezi top 5 evropskými týmy.
 
 {{< button "#cíle" "Cíle" >}}
 
@@ -20,13 +22,15 @@ Východní Blok (East Block) je český ženský ultimate frisbee tým. Hráčky
 
 {{< text-align "font-size: 1.15rem; text-align: justify;" >}}
 
-Na začátku asi nikdo netušil, jak daleko se můžeme jako tým dostat. Teď už víme, že limit neexistuje. Náš první velký cíl jsme splnily loni: vyhrály jsme venkovní mistrovství České republiky. Ale co dál?
+Na začátku asi nikdo netušil, jak daleko se můžeme jako tým dostat. Teď už víme, že limit neexistuje. Na české scéně už jsme si ten nejvyšší cíl splnily -- jsme dvojnásobné mistryně České republiky... ale nám to nestačí.
 
-**Pracujeme na tom, aby se Východní blok zapsal jako jeden z nejlepších evropských ženských týmů.**
+**Pracujeme na tom, aby se Východní Blok zapsal jako jeden z nejlepších evropských ženských týmů.**
 
-Abychom ukázaly, že to myslíme vážně, spolupracujeme pro rok 2024 s profesionálním coachem Valeriem Iani. Ale evropský tým samozřejmě není všechno. Děláme vše proto, abychom se rozvíjely individuálně, i jako tým. Většina hráček je součástí národních reprezentací -- seniorské i juniorské. Spoustu úsilí chceme věnovat i rozvoji mladých holek a pokračovat ve šňůře vítězství juniorského mistrovství ČR i v dalších letech.
+Poslední dva roky se stabilně držíme mezi top týmy v Evropě (5. místo v roce 2024 a 6. místo v roce 2023). Cíl je jasný: jednou z toho ta placka přece musí padnout!
 
-{{< /text-align >}}
+Ale evropský tým samozřejmě není všechno. Děláme vše proto, abychom se rozvíjely individuálně, i jako tým. Většina hráček je součástí národních reprezentací -- seniorské i juniorské. Spoustu úsilí věnujeme i rozvoji mladých holek, chceme dál pokračovat ve šňůře vítězství juniorského mistrovství ČR i v dalších letech.
+
+{{< /text-align >}} 
 
 ## Úspěchy
 
@@ -34,8 +38,10 @@ Abychom ukázaly, že to myslíme vážně, spolupracujeme pro rok 2024 s profes
 
 {{< timeline-entry2 date="2024">}}
 
+- 🥇 **mistrovství ČR (outdoor)**
 - 🥇 juniorské mistrovství ČR
 - 🥉 mistrovství ČR (beach 🏖️)
+- 💙 **5. místo EUCF**
 
 {{< /timeline-entry2>}}
 
@@ -106,7 +112,7 @@ Abychom ukázaly, že to myslíme vážně, spolupracujeme pro rok 2024 s profes
 
 {{< text-align "font-size: 1.15rem; text-align: justify;" >}}
 
-Východní blok začínal jako čistě halový tým -- nebylo nás dost na to, abychom mohly hrát venku na trávě. Po několika sezónách, kdy se Blok ukázal jako přátelský a spiritový tým, se podařilo nabrat i několik nových mladých a šikovných hráček. V zimě rolu 2016 se události daly do pohybu, uspořádalo se první soustředění a holky z Bloku se poprvé postavily na hřiště venku na trávě na mistrovství ČR.
+Východní blok začínal jako čistě halový tým -- nebylo nás dost na to, abychom mohly hrát venku na trávě. Po několika sezónách, kdy se Blok ukázal jako přátelský a spiritový tým, se podařilo nabrat i několik nových mladých a šikovných hráček. V zimě roku 2016 se události daly do pohybu, uspořádalo se první soustředění a holky z Bloku se poprvé postavily na hřiště venku na trávě na mistrovství ČR.
 
 ![](/images/history/vbw_prvni_outdoor.jpg)
 
