@@ -32,6 +32,6 @@ The captains for Czech team are Klára Švecová and Dominika Hadová. The Europ
 
 Our coach for the 2025 European club season is **Lu Burgess**. Lu is an ultimate player and coach, as well as an analyst and commentator for [ulti.tv](https://ulti.tv/). They are part of [Hive Ultimate](https://hiveultimate.com/), focusing on hex (flow) offence and flex defence. You can follow Lu at [@lu.burgess.ultimate](https://www.instagram.com/lu.burgess.ultimate/).
 
-{{< figure src="/images/lu_burgess.jpg">}}
+{{< figure src="/images/lu_burgess.JPG">}}
 
 {{< /text-justify >}}

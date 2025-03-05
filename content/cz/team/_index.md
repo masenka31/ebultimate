@@ -33,6 +33,6 @@ Východní Blok funguje ve dvou verzích týmu
 
 Pro rok 2025 spolupracujeme s **Lu Burgess** jako coachem evropského týmu. Lu má dlouhodobé zkušenosti s hraním, ale i komentováním, coachováním a tréninkem - je jedním z hlavních členů [Hive Ultimate](https://hiveultimate.com/), kde se soustředí na hex (flow) offence a flex defence.
 
-{{< figure src="/images/lu_burgess.jpg">}}
+{{< figure src="/images/lu_burgess.JPG">}}
 
 {{< /text-justify >}}
