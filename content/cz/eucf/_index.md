@@ -45,7 +45,7 @@ Naše cesta za 5. místem na EUCF 2024 vypadala následovně...
 
 {{< timeline-entry2 title="Vienna Spring Break" date="27. 4. 2024" >}}
 
-Do Vídně posíláme tým, který kombinuje zkušené hráčky, ale i mladší nováčky, pro některé to dokonce bude první mezinárodní program. Jedeme pro zkušenosti, hodhocení se nepočítá do rankingu na EUCF.
+Do Vídně posíláme tým, který kombinuje zkušené hráčky, ale i mladší nováčky, pro některé to dokonce bude první mezinárodní program. Jedeme pro zkušenosti, hodnocení se nepočítá do rankingu na EUCF.
 
 {{< /timeline-entry2 >}}
 

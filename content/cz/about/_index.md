@@ -8,7 +8,9 @@ featured_image = '/images/nationals2023.JPG'
 
 # Kdo jsme?
 
-Východní Blok (East Block) je český ženský ultimate frisbee tým. Hráčky pochází hlavně z oblasti východních Čech: Hradce Králové, Slatiňan a Žďáru na Sázavou. Jsme mistryně České republiky roku 2023 a 2024, medaile sbíráme v hale, venku i na juniorských soutěžích. Od roku 2022 es účastníme Evropské ligy, kde jsme se v posledním roce umístily mezi top 5 evropskými týmy.
+**Východní Blok (East Block) je český ženský ultimate frisbee tým.**
+
+Hráčky pochází hlavně z oblasti východních Čech: Hradce Králové, Slatiňan a Žďáru na Sázavou. Jsme mistryně České republiky roku 2023 a 2024, medaile sbíráme v hale, venku i na juniorských soutěžích. Od roku 2022 se účastníme Evropské ligy, kde jsme se v posledním roce umístily mezi top 5 evropskými týmy.
 
 {{< button "#cíle" "Cíle" >}}
 
@@ -22,7 +24,7 @@ Východní Blok (East Block) je český ženský ultimate frisbee tým. Hráčky
 
 Na začátku asi nikdo netušil, jak daleko se můžeme jako tým dostat. Teď už víme, že limit neexistuje. Na české scéně už jsme si ten nejvyšší cíl splnily -- jsme dvojnásobné mistryně České republiky... ale nám to nestačí.
 
-**Pracujeme na tom, aby se Východní blok zapsal jako jeden z nejlepších evropských ženských týmů.**
+**Pracujeme na tom, aby se Východní Blok zapsal jako jeden z nejlepších evropských ženských týmů.**
 
 Poslední dva roky se stabilně držíme mezi top týmy v Evropě (5. místo v roce 2024 a 6. místo v roce 2023). Cíl je jasný: jednou z toho ta placka přece musí padnout!
 
@@ -110,7 +112,7 @@ Ale evropský tým samozřejmě není všechno. Děláme vše proto, abychom se 
 
 {{< text-align "font-size: 1.15rem; text-align: justify;" >}}
 
-Východní blok začínal jako čistě halový tým -- nebylo nás dost na to, abychom mohly hrát venku na trávě. Po několika sezónách, kdy se Blok ukázal jako přátelský a spiritový tým, se podařilo nabrat i několik nových mladých a šikovných hráček. V zimě rolu 2016 se události daly do pohybu, uspořádalo se první soustředění a holky z Bloku se poprvé postavily na hřiště venku na trávě na mistrovství ČR.
+Východní blok začínal jako čistě halový tým -- nebylo nás dost na to, abychom mohly hrát venku na trávě. Po několika sezónách, kdy se Blok ukázal jako přátelský a spiritový tým, se podařilo nabrat i několik nových mladých a šikovných hráček. V zimě roku 2016 se události daly do pohybu, uspořádalo se první soustředění a holky z Bloku se poprvé postavily na hřiště venku na trávě na mistrovství ČR.
 
 ![](/images/history/vbw_prvni_outdoor.jpg)
 

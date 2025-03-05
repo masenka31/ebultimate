@@ -34,7 +34,7 @@ featured_image = '/images/nationals2023.JPG'
 
 **European team**
 
-The tryout call for the european team is closed already. Want to play with us next season? Follow us on Instagram, or get in touch privately with the captains. We will publish a short questionaire after the season where you can apply :)
+The tryout call for the European team is closed already. Want to play with us next season? Follow us on Instagram, or get in touch privately with the captains. We will publish a short questionnaire after the season where you can apply :)
 
 **Czech team**
 

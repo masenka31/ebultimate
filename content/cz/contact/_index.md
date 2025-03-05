@@ -41,9 +41,9 @@ Chceš s námi trénovat? Můžeš se přidat buď ve Žďáře k tréninkům [C
 
 {{< figure src="/images/celebration.JPG" >}}
 
-## Chceš se stát sponsorem?
+## Chceš se stát sponzorem?
 
-Jako hráčky ultimate frisbee si veškeré náklady musíme platit samy a celková částka může být poměrně vysoká. Vetšina hráček stále studuje, ať už na střední nebo vysoké škole, a je často závislá na pomoci rodičů. Budeme vděčné za každý i jen maličký dar.
+Jako hráčky ultimate frisbee si veškeré náklady musíme platit samy a celková částka může být poměrně vysoká. Většina hráček stále studuje, ať už na střední nebo vysoké škole, a je často závislá na pomoci rodičů. Budeme vděčné za každý i jen maličký dar.
 
 Jestli se chceš pobavit přímo o sponzoringu, kontaktuj nás prosím na emailu: [eastblockultimate@gmail.com](mailto:eastblockultimate@gmail.com).
 

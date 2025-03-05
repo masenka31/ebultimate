@@ -14,7 +14,7 @@ We came into the tournament as a very different team from the last season. Since
 
 The tournament could not start better. We went on the field against Shout, eager to show them how good we are. We have not met Shout last year at EUCF after the loss in the quarterfinals, so this game meant a lot. Starting with a break in the very first point, everything looked perfect. Everyone was ready to give their best and our defence caught Shout a little bit off guard. We managed to execute our system, stun their offence and give our very best. Winning 15:13, everything seemed to be going our way. Maybe we got a bit carried away. We commanded the second game, but with smaller margin than expected. Third game of the day against Mooncup we got lost in our system, could not adjust to their playing style and ended with a tough loss.
 
-The point difference in the pool put us into 3rd spot against YAKA. Again, a team we have not met at EUCF last year. Unfortunately, we started the game with a lot of unforced and forced errors, and could not stop the YAKAs experienced playing style. The tough loss put us into the fight for the 5th spot and we delivered, even though the execution can get better.
+The point difference in the pool put us into 3rd spot against YAKA. Again, a team we have not met at EUCF last year. Unfortunately, we started the game with a lot of unforced and forced errors, and could not stop the YAKA's experienced playing style. The tough loss put us into the fight for the 5th spot and we delivered, even though the execution can get better.
 
 In the end, we defended our ranking after last year and showed everyone, that when we're at the highest of our game, you need to watch out.
 

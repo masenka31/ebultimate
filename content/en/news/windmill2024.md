@@ -11,7 +11,7 @@ First ever Windmill for East Block is in the bag! The team clicked amazingly wel
 
 <!--more-->
 
-We came in missing a few players including our captain Kristýna Tlustá, who played for the Tokay SuperTeam (and - spoiler alert - won the gold medal in the mixed divion). Knowing the circumstances, we decided not to play for the EUCS ranking and rather collect experience, polish our new system of motion offense, let everyone play equal minutes and make the team better as a whole. It was also time for our second coach, Lukas Barborik, to try leading the team for a full tournament.
+We came in missing a few players including our captain Kristýna Tlustá, who played for the Tokay SuperTeam (and - spoiler alert - won the gold medal in the mixed division). Knowing the circumstances, we decided not to play for the EUCS ranking and rather collect experience, polish our new system of motion offense, let everyone play equal minutes and make the team better as a whole. It was also time for our second coach, Lukas Barborik, to try leading the team for a full tournament.
 
 Windmill is a very specific tournament. Friday's four games are tough: there's barely enough time to move from one field to another let alone have a tactical meeting and make adjustments for next opponents. We knew we had to fight for every point and came in strong with the first match against Germany Masters that pushed us high enough into the swiss draw ranking to give us a nice starting position. We continued with a closer game with MUC which put us against GRUT.
 
