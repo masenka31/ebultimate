@@ -21,7 +21,7 @@ Východní Blok funguje ve dvou verzích týmu
 
 {{< text-justify >}}
 
-Český tým vedou Klára Švecová a Dominika Hadová. A jestli vás zajímá, kdo bude kapitánka (nebo budou kapitánky) evropského týmu... nezapomeňte nás sledovat, ať vám neuniknou žádné novinky 👀
+Český tým vedou Klára Švecová a Dominika Hadová. Kapitánkou evropského týmu je Michaela Mašková.
 
 {{< /text-justify >}}
 

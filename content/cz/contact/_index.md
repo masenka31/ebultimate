@@ -21,7 +21,7 @@ featured_image = '/images/nationals2023.JPG'
 **Dominika Hadová (kapitánka)**
 - email: domka.hadova@seznam.cz
 
-**Michaela Mašková (spirit kapitánka a manažer)**
+**Michaela Mašková (kapitánka evropského týmu)**
 - Instagram: [@masenka31](https://www.instagram.com/masenka31)
 - email: masenka.maskova@gmail.com
 

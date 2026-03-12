@@ -20,7 +20,7 @@ East Block functions as two versions of one team
 
 {{< text-justify >}}
 
-The captains for Czech team are Klára Švecová and Dominika Hadová. The European team... well, you have to wait for the announcement of the leadership. Stay tuned 👀
+The captains for Czech team are Klára Švecová and Dominika Hadová. The captain of the European team is Michaela Mašková.
 
 {{< /text-justify >}}
 
