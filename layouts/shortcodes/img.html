@@ -24,11 +24,14 @@
     {{ $caption = (path.Split $image.Name).File }}
 {{ end }}
 
-{{ $nanogallery2_settings := getJSON "/static/ng2_lightbox.json" | jsonify}}
+{{ $nanogallery2_settings := dict }}
+{{ if fileExists "static/ng2_lightbox.json" }}
+    {{ $nanogallery2_settings = (readFile "static/ng2_lightbox.json" | transform.Unmarshal) }}
+{{ end }}
 
 <figure class="{{ $class }}">
 <img src="{{ ($.Scratch.Get "thumbnail").RelPermalink }}" data-ngsrc="{{$image.RelPermalink}}"
-    data-nanogallery2-lightbox="{{$nanogallery2_settings}}"
+    data-nanogallery2-lightbox="{{ $nanogallery2_settings | jsonify }}"
     alt="{{ $caption }}" {{ with .Get "width" }} width="{{.}}"{{ end }}/>
 {{ with .Get "link" }}<a href="{{.}}">{{ end }}
 {{ with .Get "caption" }}<figcaption>{{ $caption }}</figcaption>{{ end }}
