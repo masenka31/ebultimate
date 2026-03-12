@@ -8,7 +8,33 @@ featured_image = '/images/nationals2023.JPG'
 
 ## 2026
 
-TBD
+Kde nás můžeš vidět letos?
+
+{{< timeline2 >}}
+
+{{< timeline-entry2 title="Spring Tour České Budějovice" date="18. 4. 2026" >}}
+
+{{< /timeline-entry2 >}}
+
+{{< timeline-entry2 title="Vienna Spring Break" date="9. 5. 2026" >}}
+
+{{< /timeline-entry2 >}}
+
+{{< timeline-entry2 title="Windmill" date="19. 6. 2026" >}}
+
+{{< /timeline-entry2 >}}
+
+{{< timeline-entry2 title="Summer Tour Wroclaw" date="25. 7. 2026" >}}
+
+{{< /timeline-entry2 >}}
+
+{{< timeline-entry2 title="EUCF" date="9. 10. 2026" >}}
+
+{{< /timeline-entry2 >}}
+
+{{< /timeline2 >}}
+
+# Archiv
 
 ## 2025
 
@@ -42,8 +68,6 @@ Na finále jsme jely dokázat, že jsme tým, se kterým se stále musí počít
 {{< /timeline-entry2 >}}
 
 {{< /timeline2 >}}
-
-# Archiv
 
 ## 2024
 

@@ -7,7 +7,33 @@ featured_image = '/images/nationals2023.JPG'
 
 ## 2026
 
-TBD
+Where can you see us play this year?
+
+{{< timeline2 >}}
+
+{{< timeline-entry2 title="Spring Tour Budwais" date="18. 4. 2026" >}}
+
+{{< /timeline-entry2 >}}
+
+{{< timeline-entry2 title="Vienna Spring Break" date="9. 5. 2026" >}}
+
+{{< /timeline-entry2 >}}
+
+{{< timeline-entry2 title="Windmill" date="19. 6. 2026" >}}
+
+{{< /timeline-entry2 >}}
+
+{{< timeline-entry2 title="Summer Tour Wroclaw" date="25. 7. 2026" >}}
+
+{{< /timeline-entry2 >}}
+
+{{< timeline-entry2 title="EUCF" date="9. 10. 2026" >}}
+
+{{< /timeline-entry2 >}}
+
+{{< /timeline2 >}}
+
+# Archive
 
 ## 2025
 
@@ -41,8 +67,6 @@ EUCF, the highlight of the season. After Summer Tour, we were pumped to show wha
 {{< /timeline-entry2 >}}
 
 {{< /timeline2 >}}
-
-# Archive
 
 ## 2024
 
