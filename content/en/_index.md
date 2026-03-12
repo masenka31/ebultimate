@@ -53,7 +53,7 @@ Feel free to roam around, learn more about the team, the goals and achievements 
 
 {{< button "" "Goals & achievements" "about/#goals">}}
 
-{{< button "" "Road to EUCF 2025" "eucf">}}
+{{< button "" "Road to EUCF 2026" "eucf">}}
 
 {{< button "" "Become a sponsor" "contact/#wanna-become-a-sponsor">}}
 
