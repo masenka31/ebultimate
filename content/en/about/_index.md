@@ -10,7 +10,7 @@ featured_image = '/images/nationals2023.JPG'
 
 **East Block is a Czech Women's Ultimate Frisbee Team.**
 
-The players come mostly from the East Bohemia region of Czech Republic: Hradec Králové, Slatiňany and Žďár nad Sázavou. We are Czech national champions of 2023 and 2024, winning medals both indoors and outdoors (and at juniors as well). Since 2022, we are also competing at the [EUCS](https://eucs.ultimatefederation.eu/) (European Ultimate Club Season), fighting for top spots after finishing 5th last year.
+The players come mostly from the East Bohemia region of Czech Republic: Hradec Králové, Slatiňany and Žďár nad Sázavou. We are Czech national champions of 2023 and 2024, winning medals both indoors and outdoors (and at juniors as well). Since 2022, we are also competing at the [EUCS](https://eucs.ultimatefederation.eu/) (European Ultimate Club Season).
 
 {{< button "#goals" "Goals" >}}
 
@@ -26,7 +26,7 @@ When East Block started, we had no idea how far we can go. Now we know that only
 
 **We are on a journey to establish East Block as a TOP European team.**
 
-In the last two years, we have proven our qualities (finishing 5th last year and 6th in 2023). Our goal is bold and ambitious: we want that medal one day!
+In the last three years, we have proven our qualities (finishing 8th last, 5th in 2024 and 6th in 2023). Our goal is bold and ambitious: we want that medal one day!
 
 Still, the European team is not everything. We are working hard to improve as individual players and as a team. Most of our players are part of the Czech national teams, both senior and junior. We are also super excited to develop young players and continue to win Czech junior championships in the coming years.
 
@@ -35,6 +35,15 @@ Still, the European team is not everything. We are working hard to improve as in
 ## Achievements
 
 {{< timeline2 >}}
+
+{{< timeline-entry2 date="2025">}}
+
+- 🥇 Czech junior championship
+- 🥉 Windmill
+- 🥈 Summer Tour
+- 💙 **8th place EUCF**
+
+{{< /timeline-entry2>}}
 
 {{< timeline-entry2 date="2024">}}
 

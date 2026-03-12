@@ -26,7 +26,7 @@ Na začátku asi nikdo netušil, jak daleko se můžeme jako tým dostat. Teď u
 
 **Pracujeme na tom, aby se Východní Blok zapsal jako jeden z nejlepších evropských ženských týmů.**
 
-Poslední dva roky se stabilně držíme mezi top týmy v Evropě (5. místo v roce 2024 a 6. místo v roce 2023). Cíl je jasný: jednou z toho ta placka přece musí padnout!
+Poslední tři roky se stabilně držíme mezi top týmy v Evropě (8. místo 2025, 5. místo v roce 2024 a 6. místo v roce 2023). Cíl je jasný: jednou z toho ta placka přece musí padnout!
 
 Ale evropský tým samozřejmě není všechno. Děláme vše proto, abychom se rozvíjely individuálně, i jako tým. Většina hráček je součástí národních reprezentací -- seniorské i juniorské. Spoustu úsilí věnujeme i rozvoji mladých holek, chceme dál pokračovat ve šňůře vítězství juniorského mistrovství ČR i v dalších letech.
 
@@ -35,6 +35,15 @@ Ale evropský tým samozřejmě není všechno. Děláme vše proto, abychom se 
 ## Úspěchy
 
 {{< timeline2 >}}
+
+{{< timeline-entry2 date="2025">}}
+
+- 🥇 juniorské mistrovství ČR
+- 🥉 Windmill
+- 🥈 Summer Tour
+- 💙 **8. místo EUCF**
+
+{{< /timeline-entry2>}}
 
 {{< timeline-entry2 date="2024">}}
 
